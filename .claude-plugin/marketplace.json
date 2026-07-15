@@ -1,0 +1,16 @@
+{
+  "name": "ty",
+  "owner": {
+    "name": "thanhpp"
+  },
+  "metadata": {
+    "description": "TY's planning and coordination skills plus their worker/verifier/investigator agents."
+  },
+  "plugins": [
+    {
+      "name": "ty",
+      "source": ".",
+      "description": "TY's planning and coordination skills plus their worker/verifier/investigator agents. Created by TY :))"
+    }
+  ]
+}
